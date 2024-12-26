@@ -1,0 +1,21 @@
+#specialitem1 {
+    color: blue;
+    font-size: 36px;
+    }
+
+   .oddnumber,
+   .uniqueoddnumber {
+    background-color: lightpink;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+   } 
+
+   .uniqueoddnumber {
+    font-size: 26px;
+   }
+
+#specialitem2 {
+    background-color: lightgreen;
+    font-weight: 600;
+    font-size: 24px;
+}
+
